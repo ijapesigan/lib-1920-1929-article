@@ -12,7 +12,7 @@ Project](https://github.com/ijapesigan/lib-1920-1929-article/actions/workflows/m
 [![Shell
 Check](https://github.com/ijapesigan/lib-1920-1929-article/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/ijapesigan/lib-1920-1929-article/actions/workflows/shellcheck.yml)
 [![Non-ASCII
-Check](https://github.com/ijapesigan/lib-1920-1929-article/actions/workflows/pages/non-ascii-check.yml/badge.svg)](https://github.com/ijapesigan/lib-1920-1929-article/actions/workflows/pages/non-ascii-check.yml)
+Check](https://github.com/ijapesigan/lib-1920-1929-article/actions/workflows/non-ascii-check.yml/badge.svg)](https://github.com/ijapesigan/lib-1920-1929-article/actions/workflows/non-ascii-check.yml)
 [![pages-build-deployment](https://github.com/ijapesigan/lib-1920-1929-article/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ijapesigan/lib-1920-1929-article/actions/workflows/pages/pages-build-deployment)
 <!-- badges: end -->
 
