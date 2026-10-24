@@ -18,12 +18,11 @@
 
 project <- "lib-1920-1929-article"
 
+type <- "lib"
+
 rproject_ver <- NULL
 
-pkg_cran <- c(
-  "RefManageR",
-  "DT"
-)
+pkg_cran <- c()
 
 pkg_github <- c(
   "ijapesigan/rProject"
